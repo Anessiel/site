@@ -1,0 +1,62 @@
+.25_122 { 
+	overflow:hidden;
+}.iphone_14___2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:390px;
+	height:844px;
+	position:absolute;
+}.tekstikomponentti { 
+	background-color:rgba(255, 255, 255, 1);
+	width:320px;
+	height:408px;
+	position:absolute;
+	left:35px;
+	top:384px;
+}.lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__pellentesque_eget_ligula_dapibus__faucibus_eros_eget__molestie_mauris__mauris_in_lacinia_ante__maecenas_arcu_ipsum__lobortis_et_nisi_ac__posuere_egestas_nisi__etiam_rhoncus_commodo_vehicula__nunc_blandit_vitae_leo_quis_consequat__maecenas_lectus_sapien__feugiat_ac_egestas_sit_amet__gravida_nec_nibh__nullam_scelerisque_interdum_turpis_ut_condimentum__curabitur_tristique__ligula_vel_consectetur_pulvinar__leo_orci_aliquet_lacus__vitae_fringilla_lacus_odio_sit_amet_ex_ { 
+	color:rgba(0, 0, 0, 1);
+	width:320px;
+	height:408px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:Courier Prime;
+	text-align:left;
+	font-size:16px;
+	letter-spacing:0;
+	line-height:px;
+}.otsikko { 
+	background-color:rgba(255, 255, 255, 1);
+	width:320px;
+	height:96px;
+	position:absolute;
+	left:35px;
+	top:24px;
+}.testiotsikko { 
+	color:rgba(0, 0, 0, 1);
+	width:390px;
+	height:95px;
+	position:absolute;
+	left:0px;
+	top:1px;
+	font-family:Courier Prime;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	line-height:px;
+}.kuva { 
+	background-color:rgba(255, 255, 255, 1);
+	width:320px;
+	height:216px;
+	position:absolute;
+	left:35px;
+	top:120px;
+}.unsplash_bvc1exlcytk { 
+	width:320px;
+	height:216px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/unsplash_bvc1exlcytk.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
